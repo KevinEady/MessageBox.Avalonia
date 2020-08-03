@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>netstandard2.0</TargetFramework>
+        <TargetFrameworks>net48;netstandard2.0</TargetFrameworks>
         <PackageVersion>0.9.6.1</PackageVersion>
         <Title>MessageBox.Avalonia</Title>
         <Authors>Lary&lt;f98f96.gmail.com&gt;</Authors>
